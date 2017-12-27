@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gitlab.ruma.co.id/arfan/experimenjava/hello"
+	"github.com/arfan/experimenjava/hello"
 )
 
 func main() {

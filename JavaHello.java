@@ -1,4 +1,4 @@
-import go.hello.Hello;
+import go.hello.*;
 
 public class JavaHello {
     public static void main(String ... args) {

@@ -1,6 +1,6 @@
 
 #build the jar
-gojava -o hello.jar build gitlab.ruma.co.id/arfan/experimenjava/hello
+gojava -o hello.jar build github.com/arfan/experimenjava/hello
 
 #delay for a while
 sleep 5
